@@ -1,0 +1,7 @@
+# BLASTN 2.12.0+
+# Query: NM_000518.5 Homo sapiens hemoglobin subunit beta (HBB), mRNA
+# Database: hbb_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+NM_000518.5	NM_000518.5	100.000	628	0	0	1	628	1	628	0.0	1160
+# BLAST processed 1 queries
