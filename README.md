@@ -4,7 +4,7 @@ This project focuses on the sequence analysis of genetic data using bioinformati
 
 Project Overview
 
-This repository contains the code and files for performing sequence analysis on DNA sequences, using Clustal Omega for alignment and visualization of phylogenetic trees. The analysis includes steps like sequence retrieval, multiple sequence alignment, and generating a guide tree.
+This repository contains the code and files for performing sequence analysis on DNA sequences, using Clustal Omega for alignment and visualisation of phylogenetic trees. The analysis includes steps like sequence retrieval, multiple sequence alignment, and generating a guide tree.
 
 Table of Contents
 
