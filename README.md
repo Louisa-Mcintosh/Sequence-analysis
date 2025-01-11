@@ -69,7 +69,7 @@ Once your sequences are aligned, you can generate a phylogenetic tree using the 
 clustalo -i sequences.fasta --guidetree-out=tree.dnd
 ```
 
-This will output a Newick format guide tree (`tree.dnd`), which can be visualized.
+This will output a Newick format guide tree (`tree.dnd`), which can be visualised.
 
 Step 4: Visualising the Tree
 
