@@ -73,7 +73,7 @@ This will output a Newick format guide tree (`tree.dnd`), which can be visualise
 
 Step 4: Visualising the Tree
 
-You can visualize the generated tree using a Python script (e.g., `visualise_tree.py`). This script uses Matplotlib to render the tree into an image (`tree_visualisation.png`).
+You can visualise the generated tree using a Python script (e.g., `visualise_tree.py`). This script uses Matplotlib to render the tree into an image (`tree_visualisation.png`).
 
 Run the following command:
 
